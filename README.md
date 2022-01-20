@@ -16,7 +16,7 @@ I completed 3 experiment for image which inludes filtering,quantizing and dither
 
 ## Installation
 
-All projects  requires [WebGL2](https://webgl2fundamentals.org) capabale browsers to run projects.
+All projects  requires to python 3 and openCV to run project
 ```sh
 git clone https://github.com/yunusemre482/Image-Processing.git
 open .py file and run
